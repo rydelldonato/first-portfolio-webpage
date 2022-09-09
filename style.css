@@ -26,6 +26,7 @@ div hr{
 }
 
 .nav-list{
+    list-style-position: inside;
     list-style-type: none;
     font-family: cursive;
     text-align: center;
