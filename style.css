@@ -1,5 +1,6 @@
 html{
     background-color: #A2D6F9;
+    /*styling the background color of the entire html document*/
 }
 
 header{
@@ -17,6 +18,7 @@ header{
 
 .hr-image{
     background-image: url('images/hr-raypham.gif');
+    /*styling the horizonatal ruler background to display an image*/
 }
 
 div hr{
