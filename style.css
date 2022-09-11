@@ -5,15 +5,18 @@ html{
 
 header{
     background-color: white;
+    /*styling the html document's header background color*/
 }
 
 .header{
     font-family: monospace;
     text-align: center;
+    /*styling the fonts of the elements with the header class*/
 }
 
 #thinkful-logo{
     width: 150px;
+    /*changing the width of the image with the thinkful-logo id*/
 }
 
 .hr-image{
@@ -25,37 +28,45 @@ div hr{
     height: 39px;
     border: white;
     margin-bottom: 15px;
+    /*styling the height, border, and margin-bottom of both */
 }
 
 .nav-list{
     list-style-position: inside;
     font-family: cursive;
     text-align: center;
+    /*styling all html elements with the nav list class*/
 }
 
 a:link{
     color: black;
+    /*styling anchor link elements to have the color black*/
 }
 
 a:visited{
     color: #072AC8;
+    /*styling anchor link elements to change it's color when it's visited */
 }
 
 a:hover{
     color: #FFC600;
+     /*styling anchor link elements to change it's color when it's hovered over */
 }
 
 a:active{
     color: #1E96FC;
+     /*styling anchor link elements to change it's color when it's actively clicked*/
 }
 
 .main-container{
     margin-top: 80px;
     text-align: center;
+     /*styling all html elements with the main container class*/
 }
 
 .heading{
     font-family: monospace;
+     /*styling html elements with the heading class*/
 }
 
 main{
@@ -63,19 +74,23 @@ main{
     margin-right: 80px;
     line-height: 30px;
     font-size: 20px;
+     /*styling all elements nested within the main element*/
 }
 
 .main-heading{
     background-color: #FFC600;
+     /*styling all html elements with the main-heading class*/
 }
 
 ul{
     list-style-position: inside;
+    /*styling all ul elements*/
 }
 
 #rydell-on-roof{
     width: 275px;
     border-radius: 10%;
+    /*styling all html elements with the rydell-on-roof id*/
 }
 
 strong{
@@ -85,29 +100,36 @@ strong{
     background-color: #1E96FC;
     padding-left: 5px;
     padding-right: 5px;
+    /*styling all strong elements*/
 }
 
 #hurdle-action{
     width: 650px;
+    /*styling all html elements with the hurdle-action id*/
 }
 
 .margin{
     margin-top: 50px;
+    /*styling all html elements with the margin class*/
 }
 
 #downtown-sacramento{
     width: 800px;
+    /*styling all html elements with the downtown-sacramento class*/
 }
 
 #github-logo{
     width: 80px;
+    /*styling all html elements with the github-logo id*/
 }
 
 #linkedin-logo{
     width: 80px;
+    /*styling all html elements with the linkedin-logo id*/
 }
 
 footer{
     background-color: white;
     text-align: center;
+    /*styling all html elements nested within the footer element*/
 }
